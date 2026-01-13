@@ -1,0 +1,15 @@
+C:\Tiedostot\Pelikehitys-Kurssi\Ovi\bin\Debug\net8.0\Ovi.exe
+C:\Tiedostot\Pelikehitys-Kurssi\Ovi\bin\Debug\net8.0\Ovi.deps.json
+C:\Tiedostot\Pelikehitys-Kurssi\Ovi\bin\Debug\net8.0\Ovi.runtimeconfig.json
+C:\Tiedostot\Pelikehitys-Kurssi\Ovi\bin\Debug\net8.0\Ovi.dll
+C:\Tiedostot\Pelikehitys-Kurssi\Ovi\bin\Debug\net8.0\Ovi.pdb
+C:\Tiedostot\Pelikehitys-Kurssi\Ovi\obj\Debug\net8.0\Ovi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\Pelikehitys-Kurssi\Ovi\obj\Debug\net8.0\Ovi.AssemblyInfoInputs.cache
+C:\Tiedostot\Pelikehitys-Kurssi\Ovi\obj\Debug\net8.0\Ovi.AssemblyInfo.cs
+C:\Tiedostot\Pelikehitys-Kurssi\Ovi\obj\Debug\net8.0\Ovi.csproj.CoreCompileInputs.cache
+C:\Tiedostot\Pelikehitys-Kurssi\Ovi\obj\Debug\net8.0\Ovi.sourcelink.json
+C:\Tiedostot\Pelikehitys-Kurssi\Ovi\obj\Debug\net8.0\Ovi.dll
+C:\Tiedostot\Pelikehitys-Kurssi\Ovi\obj\Debug\net8.0\refint\Ovi.dll
+C:\Tiedostot\Pelikehitys-Kurssi\Ovi\obj\Debug\net8.0\Ovi.pdb
+C:\Tiedostot\Pelikehitys-Kurssi\Ovi\obj\Debug\net8.0\Ovi.genruntimeconfig.cache
+C:\Tiedostot\Pelikehitys-Kurssi\Ovi\obj\Debug\net8.0\ref\Ovi.dll

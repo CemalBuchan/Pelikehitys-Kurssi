@@ -1,0 +1,15 @@
+C:\Tiedostot\Pelikehitys-Kurssi\Ruoka-annos\bin\Debug\net8.0\Ruoka-annos.exe
+C:\Tiedostot\Pelikehitys-Kurssi\Ruoka-annos\bin\Debug\net8.0\Ruoka-annos.deps.json
+C:\Tiedostot\Pelikehitys-Kurssi\Ruoka-annos\bin\Debug\net8.0\Ruoka-annos.runtimeconfig.json
+C:\Tiedostot\Pelikehitys-Kurssi\Ruoka-annos\bin\Debug\net8.0\Ruoka-annos.dll
+C:\Tiedostot\Pelikehitys-Kurssi\Ruoka-annos\bin\Debug\net8.0\Ruoka-annos.pdb
+C:\Tiedostot\Pelikehitys-Kurssi\Ruoka-annos\obj\Debug\net8.0\Ruoka-annos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\Pelikehitys-Kurssi\Ruoka-annos\obj\Debug\net8.0\Ruoka-annos.AssemblyInfoInputs.cache
+C:\Tiedostot\Pelikehitys-Kurssi\Ruoka-annos\obj\Debug\net8.0\Ruoka-annos.AssemblyInfo.cs
+C:\Tiedostot\Pelikehitys-Kurssi\Ruoka-annos\obj\Debug\net8.0\Ruoka-annos.csproj.CoreCompileInputs.cache
+C:\Tiedostot\Pelikehitys-Kurssi\Ruoka-annos\obj\Debug\net8.0\Ruoka-annos.sourcelink.json
+C:\Tiedostot\Pelikehitys-Kurssi\Ruoka-annos\obj\Debug\net8.0\Ruoka-annos.dll
+C:\Tiedostot\Pelikehitys-Kurssi\Ruoka-annos\obj\Debug\net8.0\refint\Ruoka-annos.dll
+C:\Tiedostot\Pelikehitys-Kurssi\Ruoka-annos\obj\Debug\net8.0\Ruoka-annos.pdb
+C:\Tiedostot\Pelikehitys-Kurssi\Ruoka-annos\obj\Debug\net8.0\Ruoka-annos.genruntimeconfig.cache
+C:\Tiedostot\Pelikehitys-Kurssi\Ruoka-annos\obj\Debug\net8.0\ref\Ruoka-annos.dll
