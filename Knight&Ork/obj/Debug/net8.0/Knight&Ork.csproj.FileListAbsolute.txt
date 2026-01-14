@@ -1,0 +1,14 @@
+C:\Tiedostot\Knight&Ork\bin\Debug\net8.0\Knight&Ork.exe
+C:\Tiedostot\Knight&Ork\bin\Debug\net8.0\Knight&Ork.deps.json
+C:\Tiedostot\Knight&Ork\bin\Debug\net8.0\Knight&Ork.runtimeconfig.json
+C:\Tiedostot\Knight&Ork\bin\Debug\net8.0\Knight&Ork.dll
+C:\Tiedostot\Knight&Ork\bin\Debug\net8.0\Knight&Ork.pdb
+C:\Tiedostot\Knight&Ork\obj\Debug\net8.0\Knight&Ork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\Knight&Ork\obj\Debug\net8.0\Knight&Ork.AssemblyInfoInputs.cache
+C:\Tiedostot\Knight&Ork\obj\Debug\net8.0\Knight&Ork.AssemblyInfo.cs
+C:\Tiedostot\Knight&Ork\obj\Debug\net8.0\Knight&Ork.csproj.CoreCompileInputs.cache
+C:\Tiedostot\Knight&Ork\obj\Debug\net8.0\Knight&Ork.dll
+C:\Tiedostot\Knight&Ork\obj\Debug\net8.0\refint\Knight&Ork.dll
+C:\Tiedostot\Knight&Ork\obj\Debug\net8.0\Knight&Ork.pdb
+C:\Tiedostot\Knight&Ork\obj\Debug\net8.0\Knight&Ork.genruntimeconfig.cache
+C:\Tiedostot\Knight&Ork\obj\Debug\net8.0\ref\Knight&Ork.dll
