@@ -213,8 +213,8 @@ namespace Nuolia_Kauppa
 
     public class Arrow
     {
-        public arrowTIPS Tips { get; set; }
-        public arrowENDS Ends {  get; set; }
+        public arrowTIPS Tips;
+        public arrowENDS Ends;
 
         public int Lenght;
 
@@ -265,6 +265,22 @@ namespace Nuolia_Kauppa
 
             return arrowPRICE;
         }
+
+        public arrowTIPS GetTips()
+        {
+            return Tips;
+        }
+
+        public arrowENDS GetEnds()
+        {
+            return Ends;
+        }
+
+        public int GetLength()
+        {
+            return Lenght;
+        }
+
 
     }
 
