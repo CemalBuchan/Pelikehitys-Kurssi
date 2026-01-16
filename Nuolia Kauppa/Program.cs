@@ -43,69 +43,68 @@ namespace Nuolia_Kauppa
                 arrowENDS chosedEND = arrowENDS.Leaf;
 
                 int length = 0;
-                Arrow arrow = new Arrow(chosedTIP,chosedEND,length);
-
-               
-
-
-                
-
-                        Console.WriteLine("You chose to make your arrow");
-                        Console.WriteLine(" ");
 
 
 
 
-                        Console.WriteLine("How do you want your arrows tip");
-                        Console.WriteLine("{1- Diamond, 2- Steel, 3- Wood }");
 
-                        int cTInt;
 
-                        while (true)
-                        {
-                            string chosenTip = Console.ReadLine();
-                            cTInt = int.Parse(chosenTip);
-
-                            if (cTInt == 1 || cTInt == 2 || cTInt == 3)
-                            {
-                                break;
-                            }
-                            Console.WriteLine("Choose something that i have");
-                            Console.WriteLine("{1- Diamond, 2- Steel, 3- Wood }");
-                        }
-
-                        switch (cTInt)
-                        {
-                            case 1:
-                                Console.WriteLine("Your arrows tip is Diamond");
-                                arrow.Tips = arrowTIPS.Diamond;
-                                break;
-
-                            case 2:
-                                Console.WriteLine("Your arrows tip is Steel");
-                                arrow.Tips = arrowTIPS.Steel;
-
-                                break;
-
-                            case 3:
-                                Console.WriteLine("Your arrows tip is Wood");
-                                arrow.Tips = arrowTIPS.Wood;
-
-                                break;
-                        }
-
-                        Console.WriteLine(" ");
+                Console.WriteLine("You chose to make your arrow");
+                Console.WriteLine(" ");
 
 
 
 
-                        Console.WriteLine("How do you want your arrows End");
-                        Console.WriteLine("{1- Eagle feather, 2- Chicken feather, 3- Leaf }");
+                Console.WriteLine("How do you want your arrows tip");
+                Console.WriteLine("{1- Diamond, 2- Steel, 3- Wood }");
+
+                int cTInt;
+
+                while (true)
+                {
+                    string chosenTip = Console.ReadLine();
+                    cTInt = int.Parse(chosenTip);
+
+                    if (cTInt == 1 || cTInt == 2 || cTInt == 3)
+                    {
+                        break;
+                    }
+                    Console.WriteLine("Choose something that i have");
+                    Console.WriteLine("{1- Diamond, 2- Steel, 3- Wood }");
+                }
+
+                switch (cTInt)
+                {
+                    case 1:
+                        Console.WriteLine("Your arrows tip is Diamond");
+                        chosedTIP = arrowTIPS.Diamond;
+                        break;
+
+                    case 2:
+                        Console.WriteLine("Your arrows tip is Steel");
+                        chosedTIP = arrowTIPS.Steel;
+
+                        break;
+
+                    case 3:
+                        Console.WriteLine("Your arrows tip is Wood");
+                        chosedTIP = arrowTIPS.Wood;
+
+                        break;
+                }
+
+                Console.WriteLine(" ");
 
 
-                        int cEInt;
 
-                        while (true)
+
+                Console.WriteLine("How do you want your arrows End");
+                Console.WriteLine("{1- Eagle feather, 2- Chicken feather, 3- Leaf }");
+
+
+                int cEInt;
+
+                while (true)
                         {
                             string chosenEND = Console.ReadLine();
                             cEInt = int.Parse(chosenEND);
@@ -120,59 +119,55 @@ namespace Nuolia_Kauppa
 
                         }
 
-                        switch (cEInt)
-                        {
-                            case 1:
-                                Console.WriteLine("Your arrows End is Eagle feather");
-                                arrow.Ends = arrowENDS.EagleFeather;
-                                break;
+                switch (cEInt)
+                {
+                    case 1:
+                        Console.WriteLine("Your arrows End is Eagle feather");
+                        chosedEND = arrowENDS.EagleFeather;
+                        break;
 
-                            case 2:
-                                Console.WriteLine("Your arrows End is Chicken feather");
-                                arrow.Ends = arrowENDS.ChickenFeather;
+                    case 2:
+                        Console.WriteLine("Your arrows End is Chicken feather");
+                        chosedEND = arrowENDS.ChickenFeather;
 
-                                break;
+                        break;
 
-                            case 3:
-                                Console.WriteLine("Your arrows End is Leaf");
-                                arrow.Ends = arrowENDS.Leaf;
+                    case 3:
+                        Console.WriteLine("Your arrows End is Leaf");
+                        chosedEND = arrowENDS.Leaf;
 
-                                break;
-                        }
-                        Console.WriteLine(" ");
-
-
+                        break;
+                }
+                Console.WriteLine(" ");
 
 
 
-                        Console.WriteLine("How long do you want your arrow to be (60-100)cm");
-
-                        int arrowLenght;
-
-                        while (true)
-                        {
-                            string chosenLenght = Console.ReadLine();
-                            arrowLenght = int.Parse(chosenLenght);
-
-                            if (arrowLenght < 101 && arrowLenght > 59)
-                            {
-                                Console.WriteLine("Your arrows lenghts is " + arrowLenght + " cm");
-                                arrow.Lenght= arrowLenght;
-                                break;
-                            }
-                            Console.WriteLine("Choose a lenght that i can do");
-                            Console.WriteLine("(60 to 100)");
-                            Console.WriteLine(" ");
-
-                        }
-
-                        Console.WriteLine(" ");
-
-                     
-
-                        
 
 
+                Console.WriteLine("How long do you want your arrow to be (60-100)cm");
+
+                int arrowLenght;
+
+                while (true)
+                {
+                    string chosenLenght = Console.ReadLine();
+                    arrowLenght = int.Parse(chosenLenght);
+
+                    if (arrowLenght < 101 && arrowLenght > 59)
+                    {
+                        Console.WriteLine("Your arrows lenghts is " + arrowLenght + " cm");
+                        length= arrowLenght;
+                        break;
+                    }
+                    Console.WriteLine("Choose a lenght that i can do");
+                    Console.WriteLine("(60 to 100)");
+                    Console.WriteLine(" ");
+
+                }
+
+                Console.WriteLine(" ");
+
+                Arrow arrow = new Arrow(chosedTIP, chosedEND, length);
 
                 Console.WriteLine("Your arrow choses");
                 Console.WriteLine("Tip : " + arrow.Tips.ToString());
@@ -213,8 +208,8 @@ namespace Nuolia_Kauppa
 
     public class Arrow
     {
-        public arrowTIPS Tips;
-        public arrowENDS Ends;
+        public arrowTIPS Tips { get; private set; }
+        public arrowENDS Ends { get; private set; }
 
         public int Lenght;
 
@@ -266,22 +261,7 @@ namespace Nuolia_Kauppa
             return arrowPRICE;
         }
 
-        public arrowTIPS GetTips()
-        {
-            return Tips;
-        }
-
-        public arrowENDS GetEnds()
-        {
-            return Ends;
-        }
-
-        public int GetLength()
-        {
-            return Lenght;
-        }
-
-
+       
     }
 
 }
