@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nuolia Kauppa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a14cbfd5b6ca3d40e13f5944423277bc14fb03c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+087bb650214ec6bed0edcc100a31823f77f7b5b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nuolia Kauppa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nuolia Kauppa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
