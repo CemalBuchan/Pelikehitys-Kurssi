@@ -1,0 +1,15 @@
+C:\Tiedostot\Pelikehitys-Kurssi\Nuolia Kauppa\bin\Debug\net8.0\Nuolia Kauppa.exe
+C:\Tiedostot\Pelikehitys-Kurssi\Nuolia Kauppa\bin\Debug\net8.0\Nuolia Kauppa.deps.json
+C:\Tiedostot\Pelikehitys-Kurssi\Nuolia Kauppa\bin\Debug\net8.0\Nuolia Kauppa.runtimeconfig.json
+C:\Tiedostot\Pelikehitys-Kurssi\Nuolia Kauppa\bin\Debug\net8.0\Nuolia Kauppa.dll
+C:\Tiedostot\Pelikehitys-Kurssi\Nuolia Kauppa\bin\Debug\net8.0\Nuolia Kauppa.pdb
+C:\Tiedostot\Pelikehitys-Kurssi\Nuolia Kauppa\obj\Debug\net8.0\Nuolia Kauppa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\Pelikehitys-Kurssi\Nuolia Kauppa\obj\Debug\net8.0\Nuolia Kauppa.AssemblyInfoInputs.cache
+C:\Tiedostot\Pelikehitys-Kurssi\Nuolia Kauppa\obj\Debug\net8.0\Nuolia Kauppa.AssemblyInfo.cs
+C:\Tiedostot\Pelikehitys-Kurssi\Nuolia Kauppa\obj\Debug\net8.0\Nuolia Kauppa.csproj.CoreCompileInputs.cache
+C:\Tiedostot\Pelikehitys-Kurssi\Nuolia Kauppa\obj\Debug\net8.0\Nuolia Kauppa.sourcelink.json
+C:\Tiedostot\Pelikehitys-Kurssi\Nuolia Kauppa\obj\Debug\net8.0\Nuolia Kauppa.dll
+C:\Tiedostot\Pelikehitys-Kurssi\Nuolia Kauppa\obj\Debug\net8.0\refint\Nuolia Kauppa.dll
+C:\Tiedostot\Pelikehitys-Kurssi\Nuolia Kauppa\obj\Debug\net8.0\Nuolia Kauppa.pdb
+C:\Tiedostot\Pelikehitys-Kurssi\Nuolia Kauppa\obj\Debug\net8.0\Nuolia Kauppa.genruntimeconfig.cache
+C:\Tiedostot\Pelikehitys-Kurssi\Nuolia Kauppa\obj\Debug\net8.0\ref\Nuolia Kauppa.dll
