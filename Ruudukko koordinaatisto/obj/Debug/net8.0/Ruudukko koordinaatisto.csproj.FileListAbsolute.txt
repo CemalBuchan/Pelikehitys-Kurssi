@@ -1,0 +1,15 @@
+C:\Tiedostot\Pelikehitys-Kurssi\Ruudukko koordinaatisto\bin\Debug\net8.0\Ruudukko koordinaatisto.exe
+C:\Tiedostot\Pelikehitys-Kurssi\Ruudukko koordinaatisto\bin\Debug\net8.0\Ruudukko koordinaatisto.deps.json
+C:\Tiedostot\Pelikehitys-Kurssi\Ruudukko koordinaatisto\bin\Debug\net8.0\Ruudukko koordinaatisto.runtimeconfig.json
+C:\Tiedostot\Pelikehitys-Kurssi\Ruudukko koordinaatisto\bin\Debug\net8.0\Ruudukko koordinaatisto.dll
+C:\Tiedostot\Pelikehitys-Kurssi\Ruudukko koordinaatisto\bin\Debug\net8.0\Ruudukko koordinaatisto.pdb
+C:\Tiedostot\Pelikehitys-Kurssi\Ruudukko koordinaatisto\obj\Debug\net8.0\Ruudukko koordinaatisto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\Pelikehitys-Kurssi\Ruudukko koordinaatisto\obj\Debug\net8.0\Ruudukko koordinaatisto.AssemblyInfoInputs.cache
+C:\Tiedostot\Pelikehitys-Kurssi\Ruudukko koordinaatisto\obj\Debug\net8.0\Ruudukko koordinaatisto.AssemblyInfo.cs
+C:\Tiedostot\Pelikehitys-Kurssi\Ruudukko koordinaatisto\obj\Debug\net8.0\Ruudukko koordinaatisto.csproj.CoreCompileInputs.cache
+C:\Tiedostot\Pelikehitys-Kurssi\Ruudukko koordinaatisto\obj\Debug\net8.0\Ruudukko koordinaatisto.sourcelink.json
+C:\Tiedostot\Pelikehitys-Kurssi\Ruudukko koordinaatisto\obj\Debug\net8.0\Ruudukko koordinaatisto.dll
+C:\Tiedostot\Pelikehitys-Kurssi\Ruudukko koordinaatisto\obj\Debug\net8.0\refint\Ruudukko koordinaatisto.dll
+C:\Tiedostot\Pelikehitys-Kurssi\Ruudukko koordinaatisto\obj\Debug\net8.0\Ruudukko koordinaatisto.pdb
+C:\Tiedostot\Pelikehitys-Kurssi\Ruudukko koordinaatisto\obj\Debug\net8.0\Ruudukko koordinaatisto.genruntimeconfig.cache
+C:\Tiedostot\Pelikehitys-Kurssi\Ruudukko koordinaatisto\obj\Debug\net8.0\ref\Ruudukko koordinaatisto.dll
