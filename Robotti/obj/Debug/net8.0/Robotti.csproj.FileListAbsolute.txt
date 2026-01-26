@@ -1,0 +1,15 @@
+C:\Tiedostot\Pelikehitys-Kurssi\Robotti\bin\Debug\net8.0\Robotti.exe
+C:\Tiedostot\Pelikehitys-Kurssi\Robotti\bin\Debug\net8.0\Robotti.deps.json
+C:\Tiedostot\Pelikehitys-Kurssi\Robotti\bin\Debug\net8.0\Robotti.runtimeconfig.json
+C:\Tiedostot\Pelikehitys-Kurssi\Robotti\bin\Debug\net8.0\Robotti.dll
+C:\Tiedostot\Pelikehitys-Kurssi\Robotti\bin\Debug\net8.0\Robotti.pdb
+C:\Tiedostot\Pelikehitys-Kurssi\Robotti\obj\Debug\net8.0\Robotti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\Pelikehitys-Kurssi\Robotti\obj\Debug\net8.0\Robotti.AssemblyInfoInputs.cache
+C:\Tiedostot\Pelikehitys-Kurssi\Robotti\obj\Debug\net8.0\Robotti.AssemblyInfo.cs
+C:\Tiedostot\Pelikehitys-Kurssi\Robotti\obj\Debug\net8.0\Robotti.csproj.CoreCompileInputs.cache
+C:\Tiedostot\Pelikehitys-Kurssi\Robotti\obj\Debug\net8.0\Robotti.sourcelink.json
+C:\Tiedostot\Pelikehitys-Kurssi\Robotti\obj\Debug\net8.0\Robotti.dll
+C:\Tiedostot\Pelikehitys-Kurssi\Robotti\obj\Debug\net8.0\refint\Robotti.dll
+C:\Tiedostot\Pelikehitys-Kurssi\Robotti\obj\Debug\net8.0\Robotti.pdb
+C:\Tiedostot\Pelikehitys-Kurssi\Robotti\obj\Debug\net8.0\Robotti.genruntimeconfig.cache
+C:\Tiedostot\Pelikehitys-Kurssi\Robotti\obj\Debug\net8.0\ref\Robotti.dll
