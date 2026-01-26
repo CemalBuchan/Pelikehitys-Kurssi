@@ -2,7 +2,7 @@
 {       //Sain tehtävän suoritettua tekoälyn avulla.
         //Avun saamisen jälkeen se helpottui.
 
-        public abstract class RobottiKäsky
+        public interface  RobottiKäsky
         {
             public abstract void Suorita(Robotti robotti);
         }
@@ -11,7 +11,7 @@
 
         public class Käynnistä : RobottiKäsky
         {
-            public override void Suorita(Robotti robotti)
+            public  void Suorita(Robotti robotti)
             {
                 robotti.OnKäynnissä = true;
             }
@@ -19,7 +19,7 @@
 
         public class Sammuta : RobottiKäsky
         {
-            public override void Suorita(Robotti robotti)
+            public  void Suorita(Robotti robotti)
             {
                 robotti.OnKäynnissä = false;
             }
@@ -27,7 +27,7 @@
 
         public class YlösKäsky : RobottiKäsky
         {
-            public override void Suorita(Robotti robotti)
+            public  void Suorita(Robotti robotti)
             {
                 if (robotti.OnKäynnissä)
                     robotti.Y += 1;
@@ -36,7 +36,7 @@
 
         public class AlasKäsky : RobottiKäsky
         {
-            public override void Suorita(Robotti robotti)
+            public  void Suorita(Robotti robotti)
             {
                 if (robotti.OnKäynnissä)
                     robotti.Y -= 1;
@@ -45,7 +45,7 @@
 
         public class VasenKäsky : RobottiKäsky
         {
-            public override void Suorita(Robotti robotti)
+            public  void Suorita(Robotti robotti)
             {
                 if (robotti.OnKäynnissä)
                     robotti.X -= 1;
@@ -54,7 +54,7 @@
 
         public class OikeaKäsky : RobottiKäsky
         {
-            public override void Suorita(Robotti robotti)
+            public  void Suorita(Robotti robotti)
             {
                 if (robotti.OnKäynnissä)
                     robotti.X += 1;
