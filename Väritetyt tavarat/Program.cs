@@ -33,6 +33,7 @@
     {
         static void Main()
         {
+
             Miekka testiMiekka = new Miekka();
             Kirves testiKirves = new Kirves();
             Juosi testiJuosi = new Juosi();

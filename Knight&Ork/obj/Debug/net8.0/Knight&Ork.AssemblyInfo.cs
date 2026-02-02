@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Knight&Ork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9219239d41cea188c98520350b3e2a7c52eccbdf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b82cd1e36ea1cd993d3851414ed4be72ddb7ab7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Knight&Ork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Knight&Ork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
