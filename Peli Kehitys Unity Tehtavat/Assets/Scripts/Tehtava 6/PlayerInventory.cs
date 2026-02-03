@@ -4,6 +4,13 @@ public class PlayerInventory : MonoBehaviour
 {
     public int currentKeyID;
     public bool key;
+
+    public static PlayerInventory instance;
+
+    private void Start()
+    {
+        instance = this;
+    }
     public bool hasKey(int id)
     {
         id = currentKeyID;

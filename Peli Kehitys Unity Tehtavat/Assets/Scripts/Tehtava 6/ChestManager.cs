@@ -31,10 +31,9 @@ public class ChestManager : MonoBehaviour
     {
         if (other.gameObject.tag == "Player")
         {
-            PlayerInventory inventory = other.gameObject.GetComponent<PlayerInventory>();
             if (Input.GetKeyDown(KeyCode.E))
             {
-                tryOpen(inventory);
+                tryOpen(PlayerInventory.instance);
             }
         }
     }

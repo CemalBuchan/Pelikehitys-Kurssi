@@ -8,17 +8,16 @@ public class keyPickup : MonoBehaviour
     {
         if(other.gameObject.tag == "Player")
         {
-            PlayerInventory inventory = other.gameObject.GetComponent<PlayerInventory>();
-            if (!inventory.hasKey(inventory.currentKeyID))
+            if (!PlayerInventory.instance.hasKey(PlayerInventory.instance.currentKeyID))
             {
-                inventory.addKey(id);
+                PlayerInventory.instance.addKey(id);
                 gameObject.SetActive(false);
             }
             else
             {
-             
-                inventory.clearKey();
-                inventory.addKey(id);
+
+                PlayerInventory.instance.clearKey();
+                PlayerInventory.instance.addKey(id);
                 gameObject.SetActive(false);
             }
             
