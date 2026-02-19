@@ -11,6 +11,13 @@ public abstract class Character : MonoBehaviour
         Attack();
     }
 
+
+
+    public virtual void Attack()
+    {
+        Debug.Log($"{Name} Attack.");
+    }
+
     public void TakeDamage(int damageAmount)
     {
         Health -= damageAmount;
@@ -22,11 +29,7 @@ public abstract class Character : MonoBehaviour
         }
     }
 
-    public virtual void Attack()
-    {
-        Debug.Log($"{Name} Attack.");
-    }
-
+   
 }
 
 

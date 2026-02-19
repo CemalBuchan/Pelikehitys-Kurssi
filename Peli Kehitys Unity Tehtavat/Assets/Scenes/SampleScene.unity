@@ -259,6 +259,7 @@ GameObject:
   - component: {fileID: 242380024}
   - component: {fileID: 242380023}
   - component: {fileID: 242380022}
+  - component: {fileID: 242380027}
   m_Layer: 0
   m_Name: Mage
   m_TagString: Untagged
@@ -373,6 +374,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &242380027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 242380021}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1514f98eb948c3b42a67b5b1cb34bb06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GameManager
+  mage: {fileID: 242380022}
+  warrior: {fileID: 15130553}
 --- !u!1 &322975398
 GameObject:
   m_ObjectHideFlags: 0
