@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d67e0120eba01134e9ab525b4dbeaddf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Warrior
-  <Name>k__BackingField: Mage
+  <Name>k__BackingField: Worrior
   <Health>k__BackingField: 100
 --- !u!65 &15130554
 BoxCollider:

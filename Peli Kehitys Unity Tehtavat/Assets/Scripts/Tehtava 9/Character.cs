@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public abstract class Character : MonoBehaviour
 {
@@ -8,6 +8,7 @@ public abstract class Character : MonoBehaviour
     protected virtual void Start()
     {
         Debug.Log($"{Name} spawn . HP: {Health}");
+        Attack();
     }
 
     public void TakeDamage(int damageAmount)
@@ -17,9 +18,15 @@ public abstract class Character : MonoBehaviour
 
         if (Health <= 0)
         {
-            Debug.Log($"{Name} h�visi taistelu!");
+            Debug.Log($"{Name} hävisi taistelu!");
         }
     }
+
+    public virtual void Attack()
+    {
+        Debug.Log($"{Name} Attack.");
+    }
+
 }
 
 

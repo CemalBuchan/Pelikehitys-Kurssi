@@ -2,9 +2,8 @@
 
 public class Mage : Character
 {
-    protected override void Start()
+    public override void Attack()
     {
-        base.Start();
-        Debug.Log("Mage valmis!");
+        Debug.Log($"{Name} Spell!");
     }
 }

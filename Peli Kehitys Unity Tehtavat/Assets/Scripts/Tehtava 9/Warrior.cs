@@ -2,9 +2,8 @@
 
 public class Warrior : Character
 {
-    protected override void Start()
+    public override void Attack()
     {
-        base.Start();
-        Debug.Log("Warrior valmis!");
+        Debug.Log($"{Name} Sword!");
     }
 }
